@@ -1,0 +1,7 @@
+mobile ssd
+ (can be used with jetson nano, rasberry pi)
+
+balance between accuracy and speed
+
+with yolo
+need use GPU, not very good for yolo tiny
